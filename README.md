@@ -17,6 +17,7 @@ Parser requires several files:
 - worksheet.md - markdown version of a worksheet
 - overview.md - an overview or description of the worksheet
 - DIFFICULTY - a file containing the difficulty of the worksheet e.g. 3/5 or 2.5/5
+- 'images' directory containing any images used
 
 Parser file should be placed in the same directory as the required files.
 The parser will take the containing directory name as a title for the worksheet.
